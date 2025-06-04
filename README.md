@@ -12,7 +12,7 @@
 ## 📄 分析レポート（PDF版）
 
 - 分析結果をまとめたレポートはこちらです  
-➡️ [report.pdf](./GCI最終課題3..pdf)
+➡️ [report.pdf](.main/GCIfinal.pdf)
 
 ##  その他
 - GCI講座成果物掲載予定
