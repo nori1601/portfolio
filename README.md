@@ -9,7 +9,6 @@
 - 内容：人事データの分析を行い、離職率の原因を特定
 - 使用技術：Python（pandas, matplotlib）、Jupyter Notebook
 - 工夫点：残業時間と離職の相関分析、提案資料も作成
-- リンク：[プロジェクトを見る](./python-analysis-sample)
 
 ##  その他
 - GCI講座成果物掲載予定
